@@ -1,3 +1,5 @@
+> **Fork attribution.** This is a fork of [rustsec/advisory-db](https://github.com/rustsec/advisory-db). At audit time this fork was 0 commits ahead of upstream. Original changes: see this fork's commit history. Upstream README follows.
+
 # RustSec Advisory Database
 
 [![Build Status][build-image]][build-link]
